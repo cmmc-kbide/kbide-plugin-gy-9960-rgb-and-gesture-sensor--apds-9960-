@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-9960-rgb-and-gesture-sensor--apds-9960-",
+  "title": "gy-9960-rgb-and-gesture-sensor--apds-9960-",
+  "keywords": "gy-9960-rgb-and-gesture-sensor--apds-9960-, esp32, esp8266, arduino",
+  "description": "gy-9960-rgb-and-gesture-sensor--apds-9960- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-9960-rgb-and-gesture-sensor--apds-9960-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-9960-rgb-and-gesture-sensor--apds-9960-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
